@@ -1,0 +1,8 @@
+{
+    "expo": {
+      "name": "MonAppGaz",
+      "slug": "MonAppGaz",
+      "entryPoint": "./App.js"  
+    }
+  }
+  
