@@ -70,8 +70,8 @@ MonAppGaz est une application mobile moderne développée avec **React Native** 
 
 ### 1. Cloner le repository
 ```bash
-git clone https://github.com/votre-username/MonAppGaz.git
-cd MonAppGaz
+git clone https://github.com/juxt-rts-design/Mon_App_Gaz.git
+cd Mon_App_Gaz
 ```
 
 ### 2. Installer les dépendances
@@ -290,7 +290,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👥 Auteurs
 
-- **Votre Nom** - *Développement initial* - [VotreGitHub](https://github.com/votre-username)
+- **juxt-rts-design** - *Développement initial* - [GitHub](https://github.com/juxt-rts-design)
 
 ---
 
@@ -306,8 +306,8 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 📞 Support
 
 Pour toute question ou problème :
-- Ouvrez une [issue](https://github.com/votre-username/MonAppGaz/issues)
-- Contactez-nous à [votre-email@example.com](mailto:votre-email@example.com)
+- Ouvrez une [issue](https://github.com/juxt-rts-design/Mon_App_Gaz/issues)
+- Contactez-nous via GitHub
 
 ---
 
